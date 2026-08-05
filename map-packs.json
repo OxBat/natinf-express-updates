@@ -1,1 +1,962 @@
-[]
+[
+  {
+    "dept": "01",
+    "label": "Ain (01)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/01/pk.geojson",
+    "pkMd5": "cbda7ff60a769c4a3173a74c1361d93c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "02",
+    "label": "Aisne (02)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/02/pk.geojson",
+    "pkMd5": "81c11e369690e2b6d7395950607206ac",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "03",
+    "label": "Allier (03)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/03/pk.geojson",
+    "pkMd5": "b3dd4b27115fc37d14d316b7247d75fb",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "04",
+    "label": "Alpes-de-Haute-Provence (04)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/04/pk.geojson",
+    "pkMd5": "f4725a3ca0c05819873e5f06c6f497f0",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "05",
+    "label": "Hautes-Alpes (05)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/05/pk.geojson",
+    "pkMd5": "f8ae1a3d763d1f505e407f29ee96a7d7",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "06",
+    "label": "Alpes-Maritimes (06)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/06/pk.geojson",
+    "pkMd5": "deeb07b9a5b5d36679f678e883b2e663",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "07",
+    "label": "Ardèche (07)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/07/pk.geojson",
+    "pkMd5": "839a81d59999e69e5e7107ea6dbb9a55",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "08",
+    "label": "Ardennes (08)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/08/pk.geojson",
+    "pkMd5": "4ecbb8156ddc07e777a713cc93324d0d",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "09",
+    "label": "Ariège (09)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/09/pk.geojson",
+    "pkMd5": "466ff114f574d9236275c24018e20cfb",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "10",
+    "label": "Aube (10)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/10/pk.geojson",
+    "pkMd5": "05937ba56483203a2aa7188fc16fec6d",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "11",
+    "label": "Aude (11)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/11/pk.geojson",
+    "pkMd5": "490f0878cea80b5904bedaad083be974",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "12",
+    "label": "Aveyron (12)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/12/pk.geojson",
+    "pkMd5": "a4976ae9eb6967111f9ff143d2f05eec",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "13",
+    "label": "Bouches-du-Rhône (13)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/13/pk.geojson",
+    "pkMd5": "b2969e4397982996a6f0b323ed5e0b0e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "14",
+    "label": "Calvados (14)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/14/pk.geojson",
+    "pkMd5": "21a2dd48fecb1431307b7734ecc3e78f",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "15",
+    "label": "Cantal (15)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/15/pk.geojson",
+    "pkMd5": "9cd942d3585b3c8ee33d2234ba53a6a5",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "16",
+    "label": "Charente (16)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/16/pk.geojson",
+    "pkMd5": "72da803c86bd85726bdf2a8c7ba9b283",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "17",
+    "label": "Charente-Maritime (17)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/17/pk.geojson",
+    "pkMd5": "41bd71c44c04822fa36341007832d96c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "18",
+    "label": "Cher (18)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/18/pk.geojson",
+    "pkMd5": "7d873a61f3b523a56d022cfb82767f00",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "19",
+    "label": "Corrèze (19)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/19/pk.geojson",
+    "pkMd5": "a63418d8cdfb0e8db97f0cd2a04afd2e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "21",
+    "label": "Côte-d'Or (21)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/21/pk.geojson",
+    "pkMd5": "2b719d1fc2f761b21b77663a8270626f",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "22",
+    "label": "Côtes-d'Armor (22)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/22/pk.geojson",
+    "pkMd5": "6bf51e720a420abf6d4307205fc6d88e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "23",
+    "label": "Creuse (23)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/23/pk.geojson",
+    "pkMd5": "0461b9c0de611662dfd140f41eff4c14",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "24",
+    "label": "Dordogne (24)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/24/pk.geojson",
+    "pkMd5": "4fb6121516b0dbf1e614e82425b34085",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "25",
+    "label": "Doubs (25)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/25/pk.geojson",
+    "pkMd5": "7ca7017fca842e3c957de61f4ad2f6b6",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "26",
+    "label": "Drôme (26)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/26/pk.geojson",
+    "pkMd5": "076a766e9024b5ea010d55658a8557c3",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "27",
+    "label": "Eure (27)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/27/pk.geojson",
+    "pkMd5": "ab58122ac50f8a1e436ba220057689f9",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "28",
+    "label": "Eure-et-Loir (28)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/28/pk.geojson",
+    "pkMd5": "f08a0f6e0200c93c9e19cd4027d05d51",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "29",
+    "label": "Finistère (29)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/29/pk.geojson",
+    "pkMd5": "22dd24f51083572cdd71edc5e0ccbc5b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "2A",
+    "label": "Corse-du-Sud (2A)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/2A/pk.geojson",
+    "pkMd5": "9e0f6dc134345cf4d968da4d762b3566",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "2B",
+    "label": "Haute-Corse (2B)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/2B/pk.geojson",
+    "pkMd5": "266550e5ec0b8286f083c5bbbad10bff",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "30",
+    "label": "Gard (30)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/30/pk.geojson",
+    "pkMd5": "52f9e2d9dd154127c13a8caffe95812e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "31",
+    "label": "Haute-Garonne (31)",
+    "version": 1,
+    "sizeMb": 4,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/31/pk.geojson",
+    "pkMd5": "14b40a952b4a5dec5f678e8827a51143",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "32",
+    "label": "Gers (32)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/32/pk.geojson",
+    "pkMd5": "6a6b0cbd4d628fa46306ab46140c1f31",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "33",
+    "label": "Gironde (33)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/33/pk.geojson",
+    "pkMd5": "e927f703cc6420ccfa95623cd3736bdd",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "34",
+    "label": "Hérault (34)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/34/pk.geojson",
+    "pkMd5": "cc67522e0ee8d35ca41501f13e878443",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "35",
+    "label": "Ille-et-Vilaine (35)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/35/pk.geojson",
+    "pkMd5": "8b16c908402cfbf93454df969d033774",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "36",
+    "label": "Indre (36)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/36/pk.geojson",
+    "pkMd5": "5ec89eef36459eebee590136d2fe08e8",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "37",
+    "label": "Indre-et-Loire (37)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/37/pk.geojson",
+    "pkMd5": "cd18b07fc6cd3e1767e9dae135b4c95c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "38",
+    "label": "Isère (38)",
+    "version": 1,
+    "sizeMb": 4,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/38/pk.geojson",
+    "pkMd5": "f4d28979e35c4dff8f1dcce606c7ce88",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "39",
+    "label": "Jura (39)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/39/pk.geojson",
+    "pkMd5": "3ec96ac0d5c46df033368158e7844fea",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "40",
+    "label": "Landes (40)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/40/pk.geojson",
+    "pkMd5": "dac30630a361c209f2a3e4571466a7a7",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "41",
+    "label": "Loir-et-Cher (41)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/41/pk.geojson",
+    "pkMd5": "b0f87d7891924639c5846a462ba8c2ab",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "42",
+    "label": "Loire (42)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/42/pk.geojson",
+    "pkMd5": "8764383a6a9d4cb9c0efc851b996f0c8",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "43",
+    "label": "Haute-Loire (43)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/43/pk.geojson",
+    "pkMd5": "e7d26b5f41f1c6bccf296b9735e05eca",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "44",
+    "label": "Loire-Atlantique (44)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/44/pk.geojson",
+    "pkMd5": "506e9444cd1ab468f4cf595ceb46417f",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "45",
+    "label": "Loiret (45)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/45/pk.geojson",
+    "pkMd5": "765531e26180d40b9eac9845f50cfe6c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "46",
+    "label": "Lot (46)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/46/pk.geojson",
+    "pkMd5": "44db949b8d6db0114c7a4817dd84635d",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "47",
+    "label": "Lot-et-Garonne (47)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/47/pk.geojson",
+    "pkMd5": "6b68ba42b62264b14b71101ca7fd2a4e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "48",
+    "label": "Lozère (48)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/48/pk.geojson",
+    "pkMd5": "82d2708f96b6f6477cd70fdb9b08dd94",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "49",
+    "label": "Maine-et-Loire (49)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/49/pk.geojson",
+    "pkMd5": "dde3231dbcb9a1ec70adff1cfa0f61a7",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "50",
+    "label": "Manche (50)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/50/pk.geojson",
+    "pkMd5": "3f838efe3e0fdb2387f4bcff82f038fe",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "51",
+    "label": "Marne (51)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/51/pk.geojson",
+    "pkMd5": "360ff9adea56e32897422619de14e346",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "52",
+    "label": "Haute-Marne (52)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/52/pk.geojson",
+    "pkMd5": "62aeb82e3b3092a2d6d74723bc69ab8b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "53",
+    "label": "Mayenne (53)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/53/pk.geojson",
+    "pkMd5": "bea29fea2f98cf35ecc640657ea7885f",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "54",
+    "label": "Meurthe-et-Moselle (54)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/54/pk.geojson",
+    "pkMd5": "8ab065f4077a22708d6f5d902dd66249",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "55",
+    "label": "Meuse (55)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/55/pk.geojson",
+    "pkMd5": "705f738be68df636b8a98a5435c8f30c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "56",
+    "label": "Morbihan (56)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/56/pk.geojson",
+    "pkMd5": "49dda501d8cc30a1f1923f01eee8547d",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "57",
+    "label": "Moselle (57)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/57/pk.geojson",
+    "pkMd5": "702b19326799c74f0fbe8e62dadf5635",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "58",
+    "label": "Nièvre (58)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/58/pk.geojson",
+    "pkMd5": "5a3ce2607282cc35717be557fd582a58",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "59",
+    "label": "Nord (59)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/59/pk.geojson",
+    "pkMd5": "76cbe4b3b31353d70b4ea59cdde16096",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "60",
+    "label": "Oise (60)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/60/pk.geojson",
+    "pkMd5": "1854bc147bfabee69acc78855ee036d7",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "61",
+    "label": "Orne (61)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/61/pk.geojson",
+    "pkMd5": "5b546ca6f10bfe0f2a4cdad2412138bd",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "62",
+    "label": "Pas-de-Calais (62)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/62/pk.geojson",
+    "pkMd5": "a82861f3f46066e8dc022e1f76804919",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "63",
+    "label": "Puy-de-Dôme (63)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/63/pk.geojson",
+    "pkMd5": "099c141e2b6126704a2453977dee845c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "64",
+    "label": "Pyrénées-Atlantiques (64)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/64/pk.geojson",
+    "pkMd5": "6ccd45e588095be1da9a8e3a93c89347",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "65",
+    "label": "Hautes-Pyrénées (65)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/65/pk.geojson",
+    "pkMd5": "33e40efdd3c54730cd0a15e0cde4b04f",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "66",
+    "label": "Pyrénées-Orientales (66)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/66/pk.geojson",
+    "pkMd5": "c7d9531ad614d8b40f6251e73ed4f521",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "67",
+    "label": "Bas-Rhin (67)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/67/pk.geojson",
+    "pkMd5": "455b0ce8e8b50dcff1f66be4513b0790",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "68",
+    "label": "Haut-Rhin (68)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/68/pk.geojson",
+    "pkMd5": "3fd76f9fc01e26c6a376f39b9c31266b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "69",
+    "label": "Rhône (69)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/69/pk.geojson",
+    "pkMd5": "da8ae0bbdd758f317a8c228a513fd6be",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "70",
+    "label": "Haute-Saône (70)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/70/pk.geojson",
+    "pkMd5": "559db10f26d8f0c4670b0e69eb8a8567",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "71",
+    "label": "Saône-et-Loire (71)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/71/pk.geojson",
+    "pkMd5": "d08d654e56e97faed5ff60dcf1d7011d",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "72",
+    "label": "Sarthe (72)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/72/pk.geojson",
+    "pkMd5": "1c8478d29ea859b93c7e8568000704fb",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "73",
+    "label": "Savoie (73)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/73/pk.geojson",
+    "pkMd5": "171e82499f3bbbdf3075648c1a9ecc1e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "74",
+    "label": "Haute-Savoie (74)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/74/pk.geojson",
+    "pkMd5": "251a822cfb7cc1fa48fff99f6fbbbbb3",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "75",
+    "label": "Paris (75)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/75/pk.geojson",
+    "pkMd5": "c6d47577140689b8d675fa112e103139",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "76",
+    "label": "Seine-Maritime (76)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/76/pk.geojson",
+    "pkMd5": "692723ef017d6b01ac0376ed1e25d8bc",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "77",
+    "label": "Seine-et-Marne (77)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/77/pk.geojson",
+    "pkMd5": "c44099d25f4043bcd38de40de1899169",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "78",
+    "label": "Yvelines (78)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/78/pk.geojson",
+    "pkMd5": "78ba2698ce447f0af21a89822d14f968",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "79",
+    "label": "Deux-Sèvres (79)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/79/pk.geojson",
+    "pkMd5": "efe09a56f2b1d533104005c986d7a3f9",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "80",
+    "label": "Somme (80)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/80/pk.geojson",
+    "pkMd5": "f7e845f0b887e55f317044ab58a393a2",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "81",
+    "label": "Tarn (81)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/81/pk.geojson",
+    "pkMd5": "00f72ccd6da2741f16c36863c9ac841b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "82",
+    "label": "Tarn-et-Garonne (82)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/82/pk.geojson",
+    "pkMd5": "3bab3648fa4754bc741d3899728db0fd",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "83",
+    "label": "Var (83)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/83/pk.geojson",
+    "pkMd5": "980b54cc80c4d31a2c042e284f0c506e",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "84",
+    "label": "Vaucluse (84)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/84/pk.geojson",
+    "pkMd5": "c5154967b05ae8a20732fb668de66067",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "85",
+    "label": "Vendée (85)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/85/pk.geojson",
+    "pkMd5": "3d2d1f40fa98d9279deed996ab8a36c5",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "86",
+    "label": "Vienne (86)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/86/pk.geojson",
+    "pkMd5": "2321bf1e5a3d1e50f388e8e968e4522c",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "87",
+    "label": "Haute-Vienne (87)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/87/pk.geojson",
+    "pkMd5": "342d7a7d3e2aafed445003220cc223fc",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "88",
+    "label": "Vosges (88)",
+    "version": 1,
+    "sizeMb": 2,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/88/pk.geojson",
+    "pkMd5": "bce1958a336d00fc58461628141f511b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "89",
+    "label": "Yonne (89)",
+    "version": 1,
+    "sizeMb": 3,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/89/pk.geojson",
+    "pkMd5": "74bcbaadf3ad01ab31fab8f075a924b5",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "90",
+    "label": "Territoire de Belfort (90)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/90/pk.geojson",
+    "pkMd5": "e26a5c8e003edb0be9d597ed29b2364b",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "91",
+    "label": "Essonne (91)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/91/pk.geojson",
+    "pkMd5": "57e7742ac25f406d2474d01622e55fd9",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "92",
+    "label": "Hauts-de-Seine (92)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/92/pk.geojson",
+    "pkMd5": "44c17de0f12a9e060a9177268894d4cc",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "93",
+    "label": "Seine-Saint-Denis (93)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/93/pk.geojson",
+    "pkMd5": "d355757bee15f2fc922f430271789391",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "94",
+    "label": "Val-de-Marne (94)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/94/pk.geojson",
+    "pkMd5": "502e8969e4de0a7ff604cf44fe8c43d8",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  },
+  {
+    "dept": "95",
+    "label": "Val-d'Oise (95)",
+    "version": 1,
+    "sizeMb": 1,
+    "pkUrl": "https://oxbat.github.io/natinf-express-updates/mappacks/95/pk.geojson",
+    "pkMd5": "7abaae306faf78f9cf45ca4c32030a6a",
+    "mbtilesUrl": "",
+    "mbtilesMd5": ""
+  }
+]
