@@ -1,13 +1,1 @@
-{
-  "announcement": {
-    "id": "2026-08-peines-corrigees",
-    "title": "Mise a jour des peines",
-    "body": "Correction des amendes/peines de contraventions. Installez la mise a jour."
-  },
-  "data": {
-    "dbVersion": 2,
-    "dbUrl": "https://oxbat.github.io/natinf-express-updates/db/natinf-v2.db",
-    "dbMd5": "c9a53e69984ebbff19708a2006f5f09a",
-    "note": "Correction des peines de contraventions (amendes plafonnees, emprisonnements errones retires)."
-  }
-}
+{}
